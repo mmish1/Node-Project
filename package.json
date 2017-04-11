@@ -1,0 +1,17 @@
+{
+  "name": "webparser",
+  "version": "1.0.0",
+  "description": "Parses csv from url",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manisha Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^1.11.0",
+    "express": "^4.15.2",
+    "methods": "^1.1.2",
+    "node.io": "^0.5.1"
+  }
+}
